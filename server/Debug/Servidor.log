@@ -1,0 +1,16 @@
+[INFO] 20:42:10:506 Servidor/(18607:18607): Servidor listo para recibir al cliente
+[INFO] 20:42:10:506 Servidor/(18607:18607): Se conecto un cliente!
+[ERROR] 20:42:10:506 Servidor/(18607:18607): el cliente se desconecto. Terminando servidor
+[INFO] 21:14:42:104 Servidor/(4409:4409): Servidor listo para recibir al cliente
+[INFO] 21:18:13:716 Servidor/(4674:4674): Servidor listo para recibir al cliente
+[INFO] 00:02:19:860 Servidor/(3353:3353): Servidor listo para recibir al cliente
+[INFO] 00:35:49:193 Servidor/(6277:6277): Servidor listo para recibir al cliente
+[INFO] 00:36:10:186 Servidor/(6277:6277): Se conecto un cliente!
+[INFO] 00:36:10:187 Servidor/(6277:6277): Me llego el mensaje valor
+[INFO] 00:36:17:563 Servidor/(6277:6277): Me llegaron los siguientes valores:
+[ERROR] 00:36:17:563 Servidor/(6277:6277): el cliente se desconecto. Terminando servidor
+[INFO] 00:38:21:995 Servidor/(6510:6510): Servidor listo para recibir al cliente
+[INFO] 00:38:34:437 Servidor/(6510:6510): Se conecto un cliente!
+[INFO] 00:38:34:438 Servidor/(6510:6510): Me llego el mensaje valor
+[INFO] 00:38:38:836 Servidor/(6510:6510): Me llegaron los siguientes valores:
+[ERROR] 00:38:38:836 Servidor/(6510:6510): el cliente se desconecto. Terminando servidor

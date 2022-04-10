@@ -1,0 +1,184 @@
+
+[INFO] 17:59:24:609 Cliente/(11779:11779): Hola! soy un log
+[INFO] 17:59:24:610 Cliente/(11779:11779): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 17:59:40:744 Cliente/(11779:11779): Esto es un mensaje
+[INFO] 17:59:42:551 Cliente/(11779:11779): Corto ejecucion
+[INFO] 19:35:46:342 Cliente/(15510:15510): Hola! soy un log
+[INFO] 19:35:46:342 Cliente/(15510:15510): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 19:35:53:104 Cliente/(15510:15510): hola
+[INFO] 19:38:49:568 Cliente/(15510:15510): asd
+[INFO] 19:38:50:435 Cliente/(15510:15510):  
+[INFO] 19:38:50:889 Cliente/(15510:15510): Corto ejecucion
+[INFO] 19:43:36:624 Cliente/(15788:15788): Hola! soy un log
+[INFO] 19:43:36:624 Cliente/(15788:15788): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 19:43:39:950 Cliente/(15788:15788): hola
+[INFO] 19:47:08:654 Cliente/(15988:15988): Hola! soy un log
+[INFO] 19:47:08:658 Cliente/(15988:15988): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 19:47:12:928 Cliente/(15988:15988): hola
+[INFO] 19:53:40:441 Cliente/(16206:16206): Hola! soy un log
+[INFO] 19:53:40:441 Cliente/(16206:16206): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 19:53:51:252 Cliente/(16206:16206): hola
+[INFO] 19:55:51:185 Cliente/(16368:16368): Hola! soy un log
+[INFO] 19:55:51:185 Cliente/(16368:16368): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 19:55:56:700 Cliente/(16368:16368): hola
+[INFO] 20:01:56:910 Cliente/(16849:16849): Hola! soy un log
+[INFO] 20:01:56:912 Cliente/(16849:16849): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 20:02:01:532 Cliente/(16849:16849): hola
+[INFO] 20:09:09:247 Cliente/(17088:17088): Hola! soy un log
+[INFO] 20:09:09:247 Cliente/(17088:17088): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 20:09:15:412 Cliente/(17088:17088): hohohohohohohoo
+[INFO] 20:11:20:388 Cliente/(17228:17228): Hola! soy un log
+[INFO] 20:11:20:388 Cliente/(17228:17228): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 20:11:33:795 Cliente/(17228:17228): hola
+[INFO] 20:19:48:959 Cliente/(17645:17645): Hola! soy un log
+[INFO] 20:19:48:960 Cliente/(17645:17645): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 20:19:56:594 Cliente/(17645:17645): hola ol
+[INFO] 20:28:38:629 Cliente/(18080:18080): Hola! soy un log
+[INFO] 20:28:38:630 Cliente/(18080:18080): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 20:28:42:268 Cliente/(18080:18080): hola
+[INFO] 20:33:18:231 Cliente/(18161:18161): Hola! soy un log
+[INFO] 20:33:18:231 Cliente/(18161:18161): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 20:48:12:736 Cliente/(18728:18728): Hola! soy un log
+[INFO] 20:48:12:737 Cliente/(18728:18728): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 21:07:27:907 Cliente/(3920:3920): Hola! soy un log
+[INFO] 21:07:27:908 Cliente/(3920:3920): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 21:07:34:170 Cliente/(3920:3920): hola
+[INFO] 21:10:10:565 Cliente/(4170:4170): Hola! soy un log
+[INFO] 21:10:10:565 Cliente/(4170:4170): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 21:10:21:034 Cliente/(4170:4170): hola
+[INFO] 21:15:12:117 Cliente/(4524:4524): Hola! soy un log
+[INFO] 21:15:12:117 Cliente/(4524:4524): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 21:15:18:251 Cliente/(4524:4524): hola
+[INFO] 21:18:29:032 Cliente/(4687:4687): Hola! soy un log
+[INFO] 21:18:29:033 Cliente/(4687:4687): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 21:18:35:879 Cliente/(4687:4687): hola
+[INFO] 00:02:33:622 Cliente/(3375:3375): Hola! soy un log
+[INFO] 00:02:33:627 Cliente/(3375:3375): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:02:46:832 Cliente/(3413:3413): Hola! soy un log
+[INFO] 00:02:46:832 Cliente/(3413:3413): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:06:28:604 Cliente/(4100:4100): Hola! soy un log
+[INFO] 00:06:28:605 Cliente/(4100:4100): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:06:34:574 Cliente/(4100:4100): hola
+[INFO] 00:09:55:874 Cliente/(4415:4415): Hola! soy un log
+[INFO] 00:09:55:878 Cliente/(4415:4415): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:10:01:252 Cliente/(4415:4415): askdjasd}
+[INFO] 00:17:19:683 Cliente/(5041:5041): Hola! soy un log
+[INFO] 00:17:19:684 Cliente/(5041:5041): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:17:25:121 Cliente/(5041:5041): hola
+[INFO] 00:17:37:458 Cliente/(5041:5041): Corto ejecucion
+[INFO] 00:27:31:335 Cliente/(5889:5889): Hola! soy un log
+[INFO] 00:27:31:345 Cliente/(5889:5889): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:27:36:082 Cliente/(5889:5889): hola 
+[INFO] 00:27:37:570 Cliente/(5889:5889): mensaje
+[INFO] 00:27:39:634 Cliente/(5889:5889): mensaje 
+[INFO] 00:27:42:602 Cliente/(5889:5889): Corto ejecucion
+[INFO] 00:28:29:548 Cliente/(5942:5942): Hola! soy un log
+[INFO] 00:28:29:548 Cliente/(5942:5942): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:28:32:860 Cliente/(5942:5942): askdj
+[INFO] 00:28:33:740 Cliente/(5942:5942): Corto ejecucion
+[INFO] 00:36:00:072 Cliente/(6289:6289): Hola! soy un log
+[INFO] 00:36:00:081 Cliente/(6289:6289): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:36:06:613 Cliente/(6289:6289): hola
+[INFO] 00:36:09:306 Cliente/(6289:6289): holas
+[INFO] 00:36:10:186 Cliente/(6289:6289): Corto ejecucion
+[INFO] 00:38:29:092 Cliente/(6521:6521): Hola! soy un log
+[INFO] 00:38:29:095 Cliente/(6521:6521): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:38:31:595 Cliente/(6521:6521): hola 
+[INFO] 00:38:32:635 Cliente/(6521:6521): hola
+[INFO] 00:38:33:738 Cliente/(6521:6521): hola
+[INFO] 00:38:34:437 Cliente/(6521:6521): Corto ejecucion
+[INFO] 00:45:30:035 Cliente/(6994:6994): Hola! soy un log
+[INFO] 00:45:30:035 Cliente/(6994:6994): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:45:32:690 Cliente/(6994:6994): holas
+[INFO] 00:45:33:924 Cliente/(6994:6994): holasd
+[INFO] 00:45:35:859 Cliente/(6994:6994): Corto ejecucion
+[INFO] 00:52:34:234 Cliente/(7216:7216): Hola! soy un log
+[INFO] 00:52:34:236 Cliente/(7216:7216): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:52:37:471 Cliente/(7216:7216): hola
+[INFO] 00:52:40:143 Cliente/(7216:7216): hola
+[INFO] 00:52:44:216 Cliente/(7216:7216): Corto ejecucion
+[INFO] 00:56:41:387 Cliente/(7459:7459): Hola! soy un log
+[INFO] 00:56:41:389 Cliente/(7459:7459): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 00:56:43:712 Cliente/(7459:7459): hola
+[INFO] 00:56:44:481 Cliente/(7459:7459): hola
+[INFO] 00:56:45:334 Cliente/(7459:7459): hola
+[INFO] 00:56:46:128 Cliente/(7459:7459): hola
+[INFO] 00:56:46:971 Cliente/(7459:7459): Corto ejecucion
+[INFO] 01:06:30:750 Cliente/(7748:7748): Hola! soy un log
+[INFO] 01:06:30:751 Cliente/(7748:7748): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:06:34:340 Cliente/(7748:7748): hola
+[INFO] 01:06:45:839 Cliente/(7763:7763): Hola! soy un log
+[INFO] 01:06:45:851 Cliente/(7763:7763): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:06:53:829 Cliente/(7777:7777): Hola! soy un log
+[INFO] 01:06:53:830 Cliente/(7777:7777): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:06:57:400 Cliente/(7777:7777): hola
+[INFO] 01:07:01:709 Cliente/(7777:7777): hola
+[INFO] 01:07:02:308 Cliente/(7777:7777): Corto ejecucion
+[INFO] 01:12:47:006 Cliente/(7984:7984): Hola! soy un log
+[INFO] 01:12:47:011 Cliente/(7984:7984): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:12:50:434 Cliente/(7984:7984): hola
+[INFO] 01:12:51:874 Cliente/(7984:7984): hola gol
+[INFO] 01:12:52:938 Cliente/(7984:7984): asldk
+[INFO] 01:12:53:442 Cliente/(7984:7984): Corto ejecucion
+[INFO] 01:17:18:562 Cliente/(8069:8069): Hola! soy un log
+[INFO] 01:17:23:546 Cliente/(8069:8069): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:17:39:249 Cliente/(8069:8069): hola
+[INFO] 01:18:34:409 Cliente/(8140:8140): Hola! soy un log
+[INFO] 01:18:41:970 Cliente/(8140:8140): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:20:22:355 Cliente/(8185:8185): Hola! soy un log
+[INFO] 01:20:31:866 Cliente/(8185:8185): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:20:50:137 Cliente/(8185:8185): hola
+[INFO] 01:21:38:505 Cliente/(8273:8273): Hola! soy un log
+[INFO] 01:21:41:665 Cliente/(8273:8273): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:21:50:369 Cliente/(8273:8273): hola
+[INFO] 01:22:18:537 Cliente/(8273:8273): Corto ejecucion
+[INFO] 01:23:28:552 Cliente/(8334:8334): Hola! soy un log
+[INFO] 01:23:31:712 Cliente/(8334:8334): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:23:38:792 Cliente/(8334:8334): hola
+[INFO] 01:23:43:047 Cliente/(8334:8334): hola
+[INFO] 01:23:47:216 Cliente/(8334:8334): Corto ejecucion
+[INFO] 01:27:31:270 Cliente/(8464:8464): Hola! soy un log
+[INFO] 01:27:44:758 Cliente/(8464:8464): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:28:03:983 Cliente/(8464:8464): gsd
+[INFO] 01:28:04:960 Cliente/(8464:8464): Corto ejecucion
+[INFO] 01:29:58:375 Cliente/(8659:8659): Hola! soy un log
+[INFO] 01:30:22:097 Cliente/(8659:8659): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:30:39:359 Cliente/(8659:8659): hola
+[INFO] 01:30:42:664 Cliente/(8659:8659): Corto ejecucion
+[INFO] 01:37:09:033 Cliente/(8907:8907): Hola! soy un log
+[INFO] 01:37:19:953 Cliente/(8907:8907): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:37:32:593 Cliente/(8907:8907): sadas
+[INFO] 01:37:51:750 Cliente/(8907:8907): asdas
+[INFO] 01:38:05:186 Cliente/(8907:8907): Corto ejecucion
+[INFO] 01:39:22:938 Cliente/(9040:9040): Hola! soy un log
+[INFO] 01:39:22:939 Cliente/(9040:9040): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:39:30:243 Cliente/(9040:9040): dfas
+[INFO] 01:39:33:987 Cliente/(9040:9040): Corto ejecucion
+[INFO] 01:42:28:540 Cliente/(9136:9136): Hola! soy un log
+[INFO] 01:42:32:469 Cliente/(9136:9136): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:43:39:021 Cliente/(9196:9196): Hola! soy un log
+[INFO] 01:43:41:437 Cliente/(9196:9196): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:45:44:925 Cliente/(9283:9283): Hola! soy un log
+[INFO] 01:45:47:374 Cliente/(9283:9283): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:48:00:088 Cliente/(9349:9349): Hola! soy un log
+[INFO] 01:48:04:062 Cliente/(9349:9349): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:52:58:828 Cliente/(9746:9746): Hola! soy un log
+[INFO] 01:52:58:829 Cliente/(9746:9746): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:54:10:226 Cliente/(9892:9892): Hola! soy un log
+[INFO] 01:54:10:226 Cliente/(9892:9892): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:57:19:243 Cliente/(10050:10050): Hola! soy un log
+[INFO] 01:57:19:243 Cliente/(10050:10050): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:58:37:782 Cliente/(10111:10111): Hola! soy un log
+[INFO] 01:58:37:782 Cliente/(10111:10111): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 01:58:43:106 Cliente/(10111:10111): hola
+[INFO] 01:58:44:274 Cliente/(10111:10111): HOLA
+[INFO] 01:58:45:074 Cliente/(10111:10111): HOLA
+[INFO] 01:58:46:210 Cliente/(10111:10111): hola
+[INFO] 01:58:47:564 Cliente/(10111:10111): hola
+[INFO] 01:58:48:178 Cliente/(10111:10111): Corto ejecucion
+[INFO] 02:01:40:896 Cliente/(10215:10215): Hola! soy un log
+[INFO] 02:01:40:903 Cliente/(10215:10215): Ip leida: 127.0.0.1, Puerto leido: 4444 , Valor leido: valor
+[INFO] 02:01:49:686 Cliente/(10215:10215): hpas
+[INFO] 02:01:50:806 Cliente/(10215:10215): plñas
+[INFO] 02:01:52:110 Cliente/(10215:10215): gola
+[INFO] 02:01:52:694 Cliente/(10215:10215): Corto ejecucion
